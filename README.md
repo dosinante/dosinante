@@ -3,6 +3,11 @@
 💻 Systems programmer focused on clean, efficient code in **C**.  
 I enjoy understanding how things work under the hood — from memory to machine.
 
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
 ---
 
 ### 🧠 Focus
@@ -22,4 +27,6 @@ I enjoy understanding how things work under the hood — from memory to machine.
 
 ### 📈 GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dosinante&show_icons=false&hide_border=true&theme=transparent)
-![Top
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=dosinante&layout=compact&hide_border=true&theme=transparent)
+
+---
