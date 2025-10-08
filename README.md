@@ -1,4 +1,4 @@
-# dosinante
+# renanbrt
 
 💻 Systems programmer focused on clean, efficient code in **C**.  
 I like working close to the hardware — understanding memory, logic, and performance.
@@ -41,9 +41,9 @@ I like working close to the hardware — understanding memory, logic, and perfor
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@example.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9995renan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
+[![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanbrt)
 
 ---
 
