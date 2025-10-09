@@ -47,4 +47,4 @@ I like working close to the hardware — understanding memory, logic, and perfor
 
 ---
 
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+> 
